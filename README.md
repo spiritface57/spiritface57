@@ -57,39 +57,6 @@ Experienced Front-End and Back-End Engineer with extensive expertise in JavaScri
 - Webpack (if applicable)
 - Vite
 
----
-
-## Professional Experience
-
-### Full-Stack Software Developer & Technical Supervisor
-**Iranian National Center for Registration of Domain Names | April 2018 – February 2024**
-
-**Technical Environment:** PHP, JavaScript, HTML, CSS, Laravel, Livewire, MySQL, Git
-- Modernized domain name management system, integrating new technologies to improve performance and user experience.
-- Developed a new web application using Laravel and MySQL for automating domain purchasing and user registration.
-- Enhanced system scalability and user experience by implementing a three-node MySQL cluster and updating templating methods.
-- **Relevant to Position:** Demonstrated expertise in integrating and maintaining web technologies, including front-end development with Livewire.
-
-### Technical Supervisor & Service Provision/System Maintenance
-**Tehran University of Medical Sciences (TUMS) | April 2014 – April 2018**
-
-**Technical Environment:** Apache, Nginx, VMware Virtualization
-- Oversaw technological infrastructure and managed services, including web hosting and email.
-- **Relevant to Position:** Experience in managing and optimizing web services, relevant to understanding technical environments and user experience.
-
-### Supervisor & Software Developer
-**JAHANPARS Co. (General Contractor) | April 2012 – March 2014**
-
-**Technical Environment:** VB.NET, MS SQL Server, Crystal Reports
-- Designed and developed network-based applications to optimize processes.
-- **Relevant to Position:** Experience in developing software applications, which can translate into a strong understanding of user interactions and front-end development.
-
----
-
-## Education
-
-**B.Sc. in Computer Science**  
-Pune University, Pune, India, 2011
 
 ---
 
