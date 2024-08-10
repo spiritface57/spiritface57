@@ -1,7 +1,6 @@
 # Mahmoudreza Abbasi
 
 **Location:** Toronto, ON  
-**Cell:** (416) 953-5152  
 **Email:** [abbasi.mahmoudreza@gmail.com](mailto:abbasi.mahmoudreza@gmail.com)
 
 ---
